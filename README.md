@@ -148,9 +148,6 @@ B.Tech, Metallurgical Engineering and Materials Science
 
 Indian Institute of Technology Indore
 
-GitHub: https://github.com/<your-username>
-
-LinkedIn: https://linkedin.com/in/<your-profile>
 
 ---
 
